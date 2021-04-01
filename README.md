@@ -1,6 +1,10 @@
-# Happy-gitting-
+# Happy-gitting
+
+Hey everyone! Happy to work on this file through RStudio
 
 Just try out the git thing and enjoy gitting!
+
+Here is an example of how to add images
 
 Here is a cute dolphin:
 
